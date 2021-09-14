@@ -13,3 +13,4 @@ Note-
 4. open localhost/phpMyAdmin
 5. Import the database
 6. Get your application running in localhost follwed by project name- localhost/E-Learning
+7- the end of the process*
